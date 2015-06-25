@@ -12,10 +12,10 @@
     <header class="cf">
         <div class="logo column large-5 medium-5 small-12">
             <?php if( !get_theme_mod( 'hide_text_logo' ) == 1 ) : ?>
-                <a href="<?php bloginfo('url') ?>" title="<?php bloginfo('name') ?>"><?php bloginfo('name') ?></a>
+                <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>"><?php bloginfo('name') ?></a>
             <?php endif; ?>
             <?php if( get_theme_mod( 'logo-upload' ) ) : ?>
-                <a href="<?php bloginfo('url') ?>" title="<?php bloginfo('name') ?>">
+                <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>">
                     <img src='<?php echo esc_url( get_theme_mod( 'logo-upload' ) ); ?>' alt='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>'>
                 </a>
             <?php endif; ?>
