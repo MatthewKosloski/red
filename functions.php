@@ -2,6 +2,13 @@
 
 require_once('class-tgm-plugin-activation.php');
 
+/**
+ * Set the content width based on the theme's design and stylesheet.
+ */
+if ( ! isset( $content_width ) ) {
+	$content_width = 960;
+}
+
 if ( ! function_exists( 'red_setup' ) ) :
 /**
  * Sets up theme defaults and registers support for various WordPress features.
@@ -39,7 +46,7 @@ function red_setup() {
 
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
-		'primary' => esc_html__( 'Primary Menu', 'red' ),
+		'primary' => 'Primary Menu',
 	) );
 
 	/*
@@ -94,7 +101,7 @@ function word_count() {
 function red_widgets_init() {
 	register_sidebar( 
 		array(
-			'name'          => __( 'Footer: Widget 1', 'red' ),
+			'name'          => 'Footer: Widget 1',
 			'id'			=> 'footer-1',
 			'description'	=> '1st widget for the footer of the website.  This widget space is the longest.  
 			Consider adding text describing the website.  If no widget is applied, site tagline will be displayed.',
@@ -106,7 +113,7 @@ function red_widgets_init() {
 	 );
 	register_sidebar( 
 		array(
-			'name'          => __( 'Footer: Widget 2', 'red' ),
+			'name'          => 'Footer: Widget 2',
 			'id'			=> 'footer-2',
 			'description'	=> '2nd widget for the footer of the website. This widget has a width of 25%.',
 			'before_widget' => '<li id="%1$s" class="%2$s">',
@@ -117,7 +124,7 @@ function red_widgets_init() {
 	 );
 	register_sidebar( 
 		array(
-			'name'          => __( 'Footer: Widget 3', 'red' ),
+			'name'          => 'Footer: Widget 3',
 			'id'			=> 'footer-3',
 			'description'	=> '3rd widget for the footer of the website.  This widget is small.  
 			Consider adding brief text description or links.',
@@ -129,7 +136,7 @@ function red_widgets_init() {
 	 );
 	register_sidebar( 
 		array(
-			'name'          => __( 'Footer: Widget 4', 'red' ),
+			'name'          => 'Footer: Widget 4',
 			'id'			=> 'footer-4',
 			'description'	=> '4th widget for the footer of the website.  This widget is small.  
 			Consider adding brief text description or links.',
@@ -232,6 +239,11 @@ function my_theme_register_required_plugins() {
 			'name'      => 'WordPress SEO by Yoast',
 			'slug'      => 'wordpress-seo',
 			'required'  => false,
+		),
+		array(
+			'name'      => 'Post Reading Time',
+			'slug'      => 'post-reading-time',
+			'required'  => true,
 		),
 
 
