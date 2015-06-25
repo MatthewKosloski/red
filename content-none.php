@@ -5,11 +5,11 @@
 			<section class="cf main">
 				<article>
 					<section class="article-title">
-						<h1><?php _e( '404 Page Not Found' ); ?></h1>
-						<h2><?php _e( 'The page you were looking for doesn\'t exist. :(' ); ?></h2>
+						<h1>404 Page Not Found</h1>
+						<h2>The page you were looking for doesn't exist. :(</h2>
 					 	<hr class="article-sep">
 					</section>
-					<p class="textalign--center"><a href="<?php bloginfo('url') ?>" class="btn btn--small"><?php _e( 'Return Home' ); ?></a></p>
+					<p class="textalign--center"><a href="<?php echo esc_url( home_url() ) ?>" class="btn btn--small">Return Home</a></p>
 				</article>
 			</section>
 		</div>
