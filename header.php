@@ -9,28 +9,30 @@
     </head>
     <body <?php body_class(); ?>>
 	<div id="top" class="row">
-    <header class="cf">
-        <div class="logo column large-5 medium-5 small-12">
-            <?php if( !get_theme_mod( 'hide_text_logo' ) == 1 ) : ?>
-                <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>"><?php bloginfo('name') ?></a>
-            <?php endif; ?>
-            <?php if( get_theme_mod( 'logo-upload' ) ) : ?>
-                <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>">
-                    <img src='<?php echo esc_url( get_theme_mod( 'logo-upload' ) ); ?>' alt='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>'>
-                </a>
-            <?php endif; ?>
-        </div>
+    <div class="column large-12 medium-12 small-12">
+        <header class="cf">
+            <div class="logo column large-5 medium-5 small-12">
+                <?php if( !get_theme_mod( 'hide_text_logo' ) == 1 ) : ?>
+                    <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>"><?php bloginfo('name') ?></a>
+                <?php endif; ?>
+                <?php if( get_theme_mod( 'logo-upload' ) ) : ?>
+                    <a href="<?php echo esc_url( home_url() ) ?>" title="<?php bloginfo('name') ?>">
+                        <img src='<?php echo esc_url( get_theme_mod( 'logo-upload' ) ); ?>' alt='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>'>
+                    </a>
+                <?php endif; ?>
+            </div>
 
-        <?php
+            <?php
 
-        $args = array(
-            'theme_location'  => 'primary',
-            'container'       => false,
-            'items_wrap'      => '<ul id="%1$s" class="%2$s column large-7 medium-7 small-12">%3$s</ul>'
-        );
+            $args = array(
+                'theme_location'  => 'primary',
+                'container'       => false,
+                'items_wrap'      => '<ul id="%1$s" class="%2$s column large-7 medium-7 small-12">%3$s</ul>'
+            );
 
-        wp_nav_menu( $args );
+            wp_nav_menu( $args );
 
-        ?>
-    </header>
+            ?>
+        </header>
+    </div>
 </div>
