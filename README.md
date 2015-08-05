@@ -2,7 +2,7 @@
 
 ![](https://github.com/MatthewKosloski/red/blob/master/screenshot.png?raw=true)
 
-## *Highly* recommended plugins
+## *Highly* recommended plugins (Theme will ask you to install)
 - [Title Remover](https://wordpress.org/plugins/title-remover/) : Gives you the ability to hide the title of any post, page or custom post type item without affecting menus or titles in the admin area.
 
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) : A very fast caching engine for WordPress that produces static html files.
@@ -15,7 +15,7 @@
 
 - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) : Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast's WordPress SEO plugin.
 
-## Other *highly* recommended plugins
+## Other *highly* recommended plugins (Theme will **NOT** ask you to install)
 - [Simple Link List Widget](https://wordpress.org/plugins/simple-link-list-widget/) : This plugin makes a widget available which allows you to add a simple link list (bulleted or numbered) to a sidebar.
 
 - [WP Recent Posts From Category](https://wordpress.org/plugins/wp-recent-posts-from-category/screenshots/) : Displays recent posts from selected category by generating a shortcode that can be used in widgets, posts and pages.
