@@ -6,7 +6,7 @@
 				<article>
 					<section class="article-title">
 						<h1>Oh no!</h1>
-						<h2>It appears that no content was found!</h2>
+						<h2>It appears that this page has no content.</h2>
 					</section>
 				</article>
 			</section>
