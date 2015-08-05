@@ -2,6 +2,10 @@
 
 ![](https://github.com/MatthewKosloski/red/blob/master/screenshot.png?raw=true)
 
+## Required plugins for best experience (Theme will prompt you to install, please do.)
+- [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) : Customize WordPress with powerful, professional and intuitive fields
+- [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) : Admin UI for creating custom post types and custom taxonomies in WordPress
+
 ## *Highly* recommended plugins (Theme will ask you to install)
 - [Title Remover](https://wordpress.org/plugins/title-remover/) : Gives you the ability to hide the title of any post, page or custom post type item without affecting menus or titles in the admin area.
 
