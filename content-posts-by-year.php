@@ -21,7 +21,7 @@
         while ( $posts_this_year->have_posts() ) {
             $posts_this_year->the_post();
             // Display the title as a hyperlinked list item
-            echo '<li><a href="' . get_permalink() . '">' . get_the_title() . '</a>' . ' ' . '&mdash;' . ' ' .  get_the_time('F j') . '</li>';
+            echo '<li><a href="' . get_permalink() . '">' . get_the_title() . '</a>' . ' ' . '&mdash;' . ' ' .  get_the_time('F d') . '</li>';
         }
 
         //Reset post data.  Important to do this so not to mess with main loop
