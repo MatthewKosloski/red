@@ -7,6 +7,9 @@
 2. Download the zip file for this repo
 3. Login to WordPress admin dashboard by navigating to yoursite.com**/wp-admin**
 4. `Appearance > Themes > Add New`
+5. Select the zip file that you installed (don't extract)
+6. `Activate`
+7. Profit
 
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
