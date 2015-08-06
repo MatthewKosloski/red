@@ -2,6 +2,12 @@
 
 ![](https://github.com/MatthewKosloski/red/blob/master/screenshot.png?raw=true)
 
+## Installation
+1. Make sure you have [WordPress](https://wordpress.org/download/) installed on server (web or local)
+2. Download the zip file for this repo
+3. Login to WordPress admin dashboard by navigating to yoursite.com**/wp-admin**
+4. `Appearance > Themes > Add New`
+
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
 - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) : Customize WordPress with powerful, professional and intuitive fields
