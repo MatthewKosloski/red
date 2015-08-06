@@ -29,10 +29,15 @@
 
 ## Plugins I use, but you don't have to
 - [Easy FancyBox](https://wordpress.org/plugins/easy-fancybox/) : Easily enable the FancyBox jQuery extension on just about all media links. Multi-Site compatible. Supports iFrame and Flash movies.
+
 - [Favicon by RealFaviconGenerator](https://wordpress.org/plugins/favicon-by-realfavicongenerator/) : Create and install your favicon for all platforms: PC/Mac, iPhone/iPad, Android devices, Windows 8 tablets...
+
 - [GoSquared](https://wordpress.org/plugins/gosquared-livestats/) : The official GoSquared for WordPress plugin to integrate the GoSquared Tracking Code and GoSquared widgets into your WordPress blog.
+
 - [Limit Login Attempts](https://wordpress.org/plugins/limit-login-attempts/) : Limit rate of login attempts, including by way of cookies, for each IP. Fully customizable.
+
 - [Post Reading Time](https://wordpress.org/plugins/post-reading-time/) : A simple wordpress plugin that estimates the time a reader will need to go through the article. 
+
 - [Tiled Galleries Carousel Without Jetpack](https://wordpress.org/plugins/tiled-gallery-carousel-without-jetpack/) : Tiled Gallery Carousel allows you to display image galleries in mosaic styles without Jetpack.
 
 ## License
