@@ -17,18 +17,20 @@
 2. Download the zip file for this repo
 3. Login to WordPress admin dashboard by navigating to yoursite.com**/wp-admin**
 4. `Appearance > Themes > Add New`
-5. Select the zip file that you installed (don't extract)
+5. Select the zip file that you downloaded (don't extract)
 6. `Activate`
 
 ## Import all of my content
 Download an xml file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
 
-[Click here to download xml file](http://cl.ly/code/3M3c2v0i1p3M) *(File may be out of date)*
+[Click here to download xml file](http://cl.ly/1Q0L0S1z1k36) *(File may be out of date)*
 
 ### Instructions for importing content
 1. Download xml file
-2. `Tools > WordPress > Choose file`
-3. `Upload file and import`
+2. Extract xml file
+3. `Tools > WordPress > Choose file`
+4. Select extracted xml file
+5. `Upload file and import`
 
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
