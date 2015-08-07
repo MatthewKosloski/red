@@ -20,11 +20,13 @@
 7. Profit
 
 ## Import all of my content
-[Here](http://cl.ly/code/3M3c2v0i1p3M) is a link to an `xml` file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
-  ### Instructions for importing content
-    1. Download `xml` file
-    2. `Tools > WordPress > Choose file`
-    3. `Upload file and import`
+Download an `xml` file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
+[CLick here to download xml file](http://cl.ly/code/3M3c2v0i1p3M)
+
+### Instructions for importing content
+1. Download `xml` file
+2. `Tools > WordPress > Choose file`
+3. 3. `Upload file and import`
 
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
