@@ -17,7 +17,6 @@
 4. `Appearance > Themes > Add New`
 5. Select the zip file that you installed (don't extract)
 6. `Activate`
-7. Profit
 
 ## Import all of my content
 Download an `xml` file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
@@ -26,7 +25,9 @@ Download an `xml` file that contains all of my posts, pages, comments, custom fi
 ### Instructions for importing content
 1. Download `xml` file
 2. `Tools > WordPress > Choose file`
-3. 3. `Upload file and import`
+3. `Upload file and import`
+
+***
 
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
