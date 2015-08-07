@@ -23,7 +23,7 @@
 ## Import all of my content
 Download an xml file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
 
-[Click here to download xml file](http://cl.ly/code/3M3c2v0i1p3M)
+[Click here to download xml file](http://cl.ly/code/3M3c2v0i1p3M) *(File may be out of date)*
 
 ### Instructions for importing content
 1. Download xml file
