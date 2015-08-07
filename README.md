@@ -2,6 +2,14 @@
 
 ![](https://github.com/MatthewKosloski/red/blob/master/screenshot.png?raw=true)
 
+# Table of Contents
+- [Installation](https://github.com/MatthewKosloski/red#installation)
+- [Required plugins for best experience](https://github.com/MatthewKosloski/red#required-plugins-for-best-experience)
+- [*Highly* recommended plugins](https://github.com/MatthewKosloski/red#highly-recommended-plugins)
+- [Other *highly* recommended plugins](https://github.com/MatthewKosloski/red#other-highly-recommended-plugins)
+- [Plugins I use, but you don't have to](https://github.com/MatthewKosloski/red#plugins-i-use-but-you-dont-have-to)
+- [License](https://github.com/MatthewKosloski/red#license)
+
 ## Installation
 1. Make sure you have [WordPress](https://wordpress.org/download/) installed on server (web or local)
 2. Download the zip file for this repo
