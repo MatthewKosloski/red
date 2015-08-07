@@ -19,11 +19,12 @@
 6. `Activate`
 
 ## Import all of my content
-Download an `xml` file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
-[CLick here to download xml file](http://cl.ly/code/3M3c2v0i1p3M)
+Download an xml file that contains all of my posts, pages, comments, custom fields, terms, navigation menus and custom posts.
+
+[Click here to download xml file](http://cl.ly/code/3M3c2v0i1p3M)
 
 ### Instructions for importing content
-1. Download `xml` file
+1. Download xml file
 2. `Tools > WordPress > Choose file`
 3. `Upload file and import`
 
