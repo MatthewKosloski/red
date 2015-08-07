@@ -4,6 +4,8 @@
 
 # Table of Contents
 - [Installation](https://github.com/MatthewKosloski/red#installation)
+- [Import all of my content](https://github.com/MatthewKosloski/red#import-all-of-my-content)
+  - [Instructions for importing content](https://github.com/MatthewKosloski/red#instructions-for-importing-content)
 - [Required plugins for best experience](https://github.com/MatthewKosloski/red#required-plugins-for-best-experience)
 - [*Highly* recommended plugins](https://github.com/MatthewKosloski/red#highly-recommended-plugins)
 - [Other *highly* recommended plugins](https://github.com/MatthewKosloski/red#other-highly-recommended-plugins)
@@ -27,8 +29,6 @@ Download an xml file that contains all of my posts, pages, comments, custom fiel
 1. Download xml file
 2. `Tools > WordPress > Choose file`
 3. `Upload file and import`
-
-***
 
 ## Required plugins for best experience
 ###### Theme will prompt you to install, please do.
