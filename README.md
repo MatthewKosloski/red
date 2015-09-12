@@ -53,6 +53,9 @@ Download an xml file that contains all of my posts, pages, comments, custom fiel
 
 ## Other *highly* recommended plugins 
 ###### Theme will **NOT** ask you to install, please do.
+
+-[Wordfence Security](https://wordpress.org/plugins/wordfence/) : The Wordfence WordPress security plugin provides free enterprise-class WordPress security, protecting your website from hacks and malware.
+
 - [Simple Link List Widget](https://wordpress.org/plugins/simple-link-list-widget/) : This plugin makes a widget available which allows you to add a simple link list (bulleted or numbered) to a sidebar.
 
 - [WP Recent Posts From Category](https://wordpress.org/plugins/wp-recent-posts-from-category/screenshots/) : Displays recent posts from selected category by generating a shortcode that can be used in widgets, posts and pages.
